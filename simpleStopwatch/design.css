@@ -1,0 +1,13 @@
+#watch {
+    background-color: skyblue;
+    width: 200px;
+    font-size: 50px;
+    color: red;
+}
+
+#record {
+    width: 200px;
+    height: 250px;
+    font-size: 20px;
+    background-color: yellow;
+}
